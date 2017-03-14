@@ -1,25 +1,48 @@
 # read_and_watch
 
 [UNIX PHILOSOPHY](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)<br>
+[Web fundamentals and PWA](https://developers.google.com/web/fundamentals/getting-started/)<br>
 
 [Chron basics](http://www.unixgeeks.org/security/newbie/unix/cron-1.html) <br >
 [Mockable](https://www.mockable.io/) <br>
 [animations performance](https://aerotwist.com/blog/flip-your-animations/) <br>
 [scrum guid](http://www.scrumguides.org/scrum-guide.html)<br>
 [atomic design](http://atomicdesign.bradfrost.com)<br>
-[tensorflow robot for $100](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)<br>
-[terminals](http://terminalsare.sexy/)<br>
 [universal_web_component](https://scotch.io/bar-talk/universal-web-components)<br>
 [python time_zone](https://www.youtube.com/watch?v=-5wpm-gesOY)<br>
 
 ### Fun
+[tensorflow robot for $100](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)<br>
 [elastic progress](https://tympanus.net/Development/ElasticProgress/)<br>
+[terminals](http://terminalsare.sexy/)<br>
+[mona lisa genethic algorithms](https://www.youtube.com/watch?v=7zI7M_5_jBE)<br>
+
+## Tensorflow
+(tensorflow and deep learning)[https://www.youtube.com/watch?v=vq2nnJ4g6N0]<br>
+(tensroo flow bare bones)[https://github.com/jostmey/NakedTensor]<br>
+
+## build tools
+[neutrino](https://github.com/mozilla-neutrino/neutrino-dev)<br>
+
+## PWA
+
+[pwa with react](https://addyosmani.com/blog/progressive-web-apps-with-react/)<br>
 
 ## React
+[full stack reack book](https://www.fullstackreact.com)<br>
+[react training](https://reacttraining.com/online)<br>
+
 ### Performance
 [initial_load](https://hackernoon.com/improving-first-time-load-of-a-production-react-app-part-1-of-2-e7494a7c7ab0#.yq2c0ew9r)<br>
 [optimalisation](https://www.youtube.com/watch?v=jm81fmVr3co)<br>
 [notifications](http://igorprado.com/react-notification-system/)<br>
+[performance](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.sv8aqd4z0)<br>
+[js start-up performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.xghuxfzep)<br>
+
+## Check if it's suitable
+[victory-chart](https://github.com/FormidableLabs/victory)<br>
+[jest](https://github.com/facebook/jest)<br>
+[flowtype](https://flowtype.org/)<br>
 
 ### styles
 [styled components](https://styled-components.com/)<br>
@@ -47,3 +70,7 @@
 
 ## Es6
 [Iterables and iterators](http://exploringjs.com/es6/ch_iteration.html)<br>
+
+##Books
+[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-d-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1942788002)<br>
+[Moonwalking with Einstein](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)<br>
