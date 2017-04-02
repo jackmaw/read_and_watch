@@ -16,16 +16,17 @@
 [elastic progress](https://tympanus.net/Development/ElasticProgress/)<br>
 [terminals](http://terminalsare.sexy/)<br>
 [mona lisa genethic algorithms](https://www.youtube.com/watch?v=7zI7M_5_jBE)<br>
+[AR JS LIBRARY](https://github.com/jeromeetienne/ar.js)<br>
 
 ## Tensorflow
-(tensorflow and deep learning)[https://www.youtube.com/watch?v=vq2nnJ4g6N0]<br>
-(tensroo flow bare bones)[https://github.com/jostmey/NakedTensor]<br>
+[tensorflow and deep learning](https://www.youtube.com/watch?v=vq2nnJ4g6N0)<br>
+[tensroo flow bare bones](https://github.com/jostmey/NakedTensor)<br>
 
 ## build tools
 [neutrino](https://github.com/mozilla-neutrino/neutrino-dev)<br>
 
 ## PWA
-
+[code google labs](https://developers.google.com/web/fundamentals/getting-started/)<br>
 [pwa with react](https://addyosmani.com/blog/progressive-web-apps-with-react/)<br>
 
 ## React
@@ -75,13 +76,19 @@
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-d-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1942788002)<br>
 [Moonwalking with Einstein](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)<br>
 
+
 ##Ethernum
 [Melon](https://www.melonport.com/learn)<br>
 [dapps](http://dapps.ethercasts.com/)<br>
 [ethernum](https://www.ethereum.org/)<br>
 [cryptocurrencymarket](http://cryptocurrency.market/)<br>
 
+## ANSI C
+[9 C books](https://www.ossblog.org/learn-c-programming-with-9-excellent-open-source-books/])<br>
+
+
 ## Quantum COmputing
+[Google quenatum research news](https://plus.google.com/+QuantumAILab)<br>
 [Edx Course]<br>
 Quantum computing for computer scientists<br>
 Quantum Processes, Systems and Information by Schumacher and Westmoreland<br>
