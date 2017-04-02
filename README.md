@@ -75,6 +75,12 @@
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-d-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1942788002)<br>
 [Moonwalking with Einstein](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)<br>
 
+##Ethernum
+[Melon](https://www.melonport.com/learn)<br>
+[dapps](http://dapps.ethercasts.com/)<br>
+[ethernum](https://www.ethereum.org/)<br>
+[cryptocurrencymarket](http://cryptocurrency.market/)<br>
+
 ## Quantum COmputing
 [Edx Course]<br>
 Quantum computing for computer scientists<br>
