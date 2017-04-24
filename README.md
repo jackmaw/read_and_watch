@@ -68,6 +68,9 @@
 
 ## Function Programming
 [talk essence and origins frp](https://github.com/conal/talk-2015-essence-and-origins-of-frp)<br>
+[Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)<br>
+[Structure and interprestation](https://www.youtube.com/playlist?list=PLF4E3E1B72A58B492)
+[Category theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ## Es6
 [Iterables and iterators](http://exploringjs.com/es6/ch_iteration.html)<br>
@@ -86,6 +89,8 @@
 ## ANSI C
 [9 C books](https://www.ossblog.org/learn-c-programming-with-9-excellent-open-source-books/])<br>
 
+# Quant
+[Quant start](https://www.quantstart.com/a-step-by-step-guide-on-getting-a-job-for-quantitative-analysts)
 
 ## Quantum COmputing
 [Google quenatum research news](https://plus.google.com/+QuantumAILab)<br>
@@ -95,3 +100,5 @@ Quantum Processes, Systems and Information by Schumacher and Westmoreland<br>
 Quantum Computer Science: An Introduction by Mermin<br>
 An Introduction to Quantum Computing by Kaye, Laflamme and Mosca<br>
 Quantum Computation and Quantum Information by Nielsen and Chuang<br>
+
+
