@@ -92,6 +92,13 @@
 # Quant
 [Quant start](https://www.quantstart.com/a-step-by-step-guide-on-getting-a-job-for-quantitative-analysts)
 
+##FPGA
+[Basics](https://www.amazon.com/Digital-Design-Computer-Architecture-Second/dp/0123944244)
+[Rapid Prototyping of Digital Systems](https://www.amazon.com/Rapid-Prototyping-Digital-Systems-SOPC/dp/0387726705)
+[FPGA prototyping by verilog examples](http://www2.dc.ufscar.br/~marcondes/netfpga/FPGAPrototypingByVerilogExamples.pdf)
+[Embedded SoPC Design with Nios II Processor and Verilog Examples](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118011031.html)
+[FPGA for Dummies](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/misc/fpgas_for_dummies_ebook.pdf)
+
 ## Quantum COmputing
 [Google quenatum research news](https://plus.google.com/+QuantumAILab)<br>
 [Edx Course]<br>
