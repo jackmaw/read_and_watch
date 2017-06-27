@@ -71,6 +71,10 @@
 [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)<br>
 [Structure and interprestation](https://www.youtube.com/playlist?list=PLF4E3E1B72A58B492)
 [Category theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+[Benefits of Functional Programming](http://alvinalexander.com/scala/fp-book/benefits-of-functional-programming)
+[Functional Programming for The Rest of Us](http://www.defmacro.org/ramblings/fp.html)
+[Programming masterminds](https://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1471484521&sr=1-1&keywords=Masterminds+of+Programming&linkCode=sl1&tag=devdaily-20&linkId=f6dc87f0b762633e74d790129836c928)
+[Functional programming disadvantages](http://alvinalexander.com/scala/fp-book/disadvantages-of-functional-programming)
 
 ## Es6
 [Iterables and iterators](http://exploringjs.com/es6/ch_iteration.html)<br>
